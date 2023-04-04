@@ -1,17 +1,19 @@
 h1{
     font-size: 90px;
-    margin-top: 0px;
+    margin-top: 50px;
     margin-left: 0px;   
     padding: 20px;
 }
 
 h2{
     font-size: 70px;
+    font-weight: normal;
 }
 
 h3{
      font-size: 30px;
      font-family: 'Montserrat', sans-serif;
+     font-weight: normal;
 }
 
 body{
@@ -57,9 +59,30 @@ p{
     text-align: center;
 }
 
+.skill-row{
+    margin: 100px auto;
+    width: 50%;
+}
+
+.skill-row-text{
+    text-align: left;
+    line-height: 2;
+}
+
 .web-dev{
+    float: left;
     height: 150px;
-    width: 150px
+    margin-top: 70px;
+    margin-right: 50px;
+    width: 150px;
+}
+
+.valorant{
+    float: right;
+    height: 150px;
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 150px;
 }
 
 .dp{
