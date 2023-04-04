@@ -32,6 +32,8 @@ p{
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     text-align: center;
+    position: relative;
+    right: 8px;
     width: 100%;
 }
 
